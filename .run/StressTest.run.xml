@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="StressTest" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="StressTest" />
+    <module name="P2P-Distributed-Maze-Game" />
+    <option name="PROGRAM_PARAMETERS" value="127.0.0.1 123 &quot;java Game&quot;" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target/classes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

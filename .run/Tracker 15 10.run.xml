@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tracker 15 10" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Tracker" />
+    <module name="P2P-Distributed-Maze-Game" />
+    <option name="PROGRAM_PARAMETERS" value="123 15 10" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target/classes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

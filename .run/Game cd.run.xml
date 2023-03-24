@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Game cd" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Game" />
+    <module name="P2P-Distributed-Maze-Game" />
+    <option name="PROGRAM_PARAMETERS" value="127.0.0.1 103 cd" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target/classes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
